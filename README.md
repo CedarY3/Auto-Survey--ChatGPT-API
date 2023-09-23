@@ -1,4 +1,4 @@
-# Auto Questionnaires (team-14)：
+# Auto Questionnaires：
 ![img_2.png](imgs/img_2.png)
 
 ## 1) User story
